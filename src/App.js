@@ -25,6 +25,7 @@ class App extends Component {
   return (
     <div className="App">
       <header className="App-header">
+       Saga-Middleware
       </header>
        <div className='age'>Your Age:<span>{this.props.age}</span></div>
        <button className='ageUp' onClick={this.props.onAgeUp}>Age Up</button>
