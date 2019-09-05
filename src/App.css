@@ -28,6 +28,9 @@
 	color: white;
 }
 
+.ageUp:focus,.ageDown:focus{
+	outline: none;
+}
  
 /* list */
 .arrayItems{
